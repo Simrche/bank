@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1670516500219" clover="3.2.0">
+  <project timestamp="1670516500219" name="All files">
+    <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8" elements="26" coveredelements="26" complexity="0" loc="18" ncloc="18" packages="1" files="1" classes="1"/>
+    <file name="bank.ts" path="/Users/rochesimon/Desktop/Bank/bank.ts">
+      <metrics statements="18" coveredstatements="18" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="9" count="20" type="stmt"/>
+      <line num="10" count="20" type="stmt"/>
+      <line num="11" count="20" type="stmt"/>
+      <line num="12" count="20" type="stmt"/>
+      <line num="16" count="8" type="stmt"/>
+      <line num="17" count="8" type="stmt"/>
+      <line num="21" count="6" type="stmt"/>
+      <line num="22" count="6" type="stmt"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="31" count="3" type="stmt"/>
+      <line num="32" count="3" type="stmt"/>
+      <line num="36" count="2" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="41" count="3" type="stmt"/>
+      <line num="42" count="3" type="stmt"/>
+      <line num="43" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>
